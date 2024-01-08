@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Report ViewList Approved CAMList In Prog_692e80</name>
+   <tag></tag>
+   <elementGuidId>a67cf145-5866-4c31-b97d-8a772a5ee30f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='treemenu2']/li/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>9688ab42-a5a6-47f7-8447-ae2c74f88684</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>submenu</value>
+      <webElementGuid>27fd6fd4-eb9c-432c-87a0-3ac807fba914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Report/ ViewList Approved CAMList In Progress CAMList CAM by Approval DateList CAM by Car`s ConditionList Approved by Dealer per Disbursement DateList Rejected CAMSummary Approved CAMList CAM by Customer/ GroupCigna Monitoring Outstanding Asuransi CignaCMO Daily Productivity ReportDetail of CMO Daily Productivity ReportCommission/Incentive Payment - CompanyHistory Commission/Incentive Payment - CompanyDetail Commission/Incentive Payment - CompanyCommission/Incentive Payment - IndividualHistory Commission/Incentive Payment - IndividualDetail Commission/Incentive Payment - IndividualIncentive to 3rd Party Monthly ReportHistory Incentive to 3rd Party Monthly ReportDetail Incentive to 3rd Party Monthly ReportOthersHistory PaymentAmortization ReportRetained Commission CAMCustomer Overdue BPKB >90 Days</value>
+      <webElementGuid>60f88f07-cd4d-471a-969b-74ba8a359b61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]/ul[1]/li[@class=&quot;submenu&quot;]</value>
+      <webElementGuid>879d3e35-4f3e-4c87-a9f6-df18390aa379</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='treemenu2']/li/ul/li[3]</value>
+      <webElementGuid>ec89e3a8-27f2-4c89-aa47-96cee5e05efc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approved'])[1]/following::li[1]</value>
+      <webElementGuid>4b2d7837-8334-408a-8945-3f97efdecc17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In Progress'])[1]/following::li[2]</value>
+      <webElementGuid>b57315f9-ec47-49a2-9731-7b83e873b023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Report/ View']/parent::*</value>
+      <webElementGuid>3fe5eafb-2943-47c9-8532-7a5ad3057104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/ul/li/ul/li[3]</value>
+      <webElementGuid>f543df48-eec2-4cc8-a737-b4a4ea201e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Report/ ViewList Approved CAMList In Progress CAMList CAM by Approval DateList CAM by Car`s ConditionList Approved by Dealer per Disbursement DateList Rejected CAMSummary Approved CAMList CAM by Customer/ GroupCigna Monitoring Outstanding Asuransi CignaCMO Daily Productivity ReportDetail of CMO Daily Productivity ReportCommission/Incentive Payment - CompanyHistory Commission/Incentive Payment - CompanyDetail Commission/Incentive Payment - CompanyCommission/Incentive Payment - IndividualHistory Commission/Incentive Payment - IndividualDetail Commission/Incentive Payment - IndividualIncentive to 3rd Party Monthly ReportHistory Incentive to 3rd Party Monthly ReportDetail Incentive to 3rd Party Monthly ReportOthersHistory PaymentAmortization ReportRetained Commission CAMCustomer Overdue BPKB >90 Days' or . = 'Report/ ViewList Approved CAMList In Progress CAMList CAM by Approval DateList CAM by Car`s ConditionList Approved by Dealer per Disbursement DateList Rejected CAMSummary Approved CAMList CAM by Customer/ GroupCigna Monitoring Outstanding Asuransi CignaCMO Daily Productivity ReportDetail of CMO Daily Productivity ReportCommission/Incentive Payment - CompanyHistory Commission/Incentive Payment - CompanyDetail Commission/Incentive Payment - CompanyCommission/Incentive Payment - IndividualHistory Commission/Incentive Payment - IndividualDetail Commission/Incentive Payment - IndividualIncentive to 3rd Party Monthly ReportHistory Incentive to 3rd Party Monthly ReportDetail Incentive to 3rd Party Monthly ReportOthersHistory PaymentAmortization ReportRetained Commission CAMCustomer Overdue BPKB >90 Days')]</value>
+      <webElementGuid>193bb81d-05cd-4da9-b17c-c1c6020a1603</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

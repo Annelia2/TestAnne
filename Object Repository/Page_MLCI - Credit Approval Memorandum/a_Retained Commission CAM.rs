@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Retained Commission CAM</name>
+   <tag></tag>
+   <elementGuidId>d5283e07-d843-4d87-8000-fccfff5ed8fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='treemenu2']/li/ul/li[3]/ul/li[8]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8fb04b22-4360-4726-a044-579ccc66a253</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>module_cam/rpt_retained_commission.php?menu_id=1.4.8</value>
+      <webElementGuid>5e4a5ccb-0bf2-45f4-b833-c0bc4689aa4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>main1</value>
+      <webElementGuid>1a0bfdbe-1d06-4583-a064-2f24bf4bc5bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Retained Commission CAM</value>
+      <webElementGuid>8c9c6716-7e46-45a0-ba10-4764689efd2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]/ul[1]/li[@class=&quot;submenu&quot;]/ul[1]/li[8]/a[1]</value>
+      <webElementGuid>fd546602-5c10-44d3-a3a1-78257d21bc99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='treemenu2']/li/ul/li[3]/ul/li[8]/a</value>
+      <webElementGuid>ddd1ac92-187d-4546-ad29-43965749995d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Retained Commission CAM')]</value>
+      <webElementGuid>9cb6eddd-f734-4550-809b-7202bc5b3b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amortization Report'])[1]/following::a[1]</value>
+      <webElementGuid>0dcb2845-6c4b-498b-91fe-41828bd34c4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='History Payment'])[1]/following::a[2]</value>
+      <webElementGuid>a33fe9fb-d19a-4a02-bae3-17e0e11db3f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Overdue BPKB >90 Days'])[1]/preceding::a[1]</value>
+      <webElementGuid>d035b614-f5c9-4385-b87e-dd94aa1514e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Retained Commission CAM']/parent::*</value>
+      <webElementGuid>bd40c379-3766-4fb2-aea7-aef392ffdf19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'module_cam/rpt_retained_commission.php?menu_id=1.4.8')]</value>
+      <webElementGuid>93bd3011-6899-48a7-984e-1026601b7f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a</value>
+      <webElementGuid>142c005b-5391-4fb6-a202-ea28600044ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'module_cam/rpt_retained_commission.php?menu_id=1.4.8' and (text() = 'Retained Commission CAM' or . = 'Retained Commission CAM')]</value>
+      <webElementGuid>086ab905-e7f0-4d1b-9aa7-51440b6fff7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

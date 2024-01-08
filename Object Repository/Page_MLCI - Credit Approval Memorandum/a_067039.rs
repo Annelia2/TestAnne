@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_067039</name>
+   <tag></tag>
+   <elementGuidId>a06ab2c5-a695-416e-9814-b10b735da5f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>body > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(6) > td:nth-child(1) > a:nth-child(1)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/table/tbody/tr[6]/td[1]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'067039')]</value>
+      <webElementGuid>974cf3ca-ca28-4937-b0ed-340f55b10365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KOMP.*****LREJO'])[1]/following::a[5]</value>
+      <webElementGuid>58bd1033-4ae6-432e-a531-144fd5d48d07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A AGUNG NUGROHO, SE, MSC.'])[1]/following::a[5]</value>
+      <webElementGuid>39fa1f9b-885e-41b1-87fd-9a8d70eaa5fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A AN RUSLI'])[1]/preceding::a[1]</value>
+      <webElementGuid>b81e8c07-ef84-4928-bc07-008227d2ef53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PUKAT*****MBUNG'])[1]/preceding::a[1]</value>
+      <webElementGuid>e66aa994-2680-41cf-9124-ca8a2fcdaca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='067039']/parent::*</value>
+      <webElementGuid>b58e5e5f-1229-4879-afc3-56ebcdab7cde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'ro_list_cust.php?flag=1&amp;id1=I&amp;id2=1&amp;id3=&amp;id4=1&amp;id5=2&amp;id6=&amp;id7=3&amp;apless=067039')]</value>
+      <webElementGuid>b86cc06e-b55f-4588-9556-98a92b3d7de1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[30]/td/a</value>
+      <webElementGuid>7c2a9bf4-d7ec-4dff-97e9-7ffc91060c0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'ro_list_cust.php?flag=1&amp;id1=I&amp;id2=1&amp;id3=&amp;id4=1&amp;id5=2&amp;id6=&amp;id7=3&amp;apless=067039' and (text() = '
+					067039
+				' or . = '
+					067039
+				')]</value>
+      <webElementGuid>3acca225-a788-49f7-a789-63e1d3eb0438</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

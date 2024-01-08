@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Customer Overdue BPKB 90 Days</name>
+   <tag></tag>
+   <elementGuidId>633503e5-bffa-4ea7-8c16-65708bd217aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='treemenu2']/li/ul/li[3]/ul/li[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>10b569a4-1787-4a82-9842-39efb163735e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Customer Overdue BPKB >90 Days</value>
+      <webElementGuid>36f85868-76da-4c98-ad7c-453bb740ee22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;treemenu2&quot;)/li[@class=&quot;submenu&quot;]/ul[1]/li[@class=&quot;submenu&quot;]/ul[1]/li[9]</value>
+      <webElementGuid>61f62cdd-3c85-4797-b564-933925abe54c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='treemenu2']/li/ul/li[3]/ul/li[9]</value>
+      <webElementGuid>a8c38d6c-7a15-4c98-96c0-0b62f4528a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Retained Commission CAM'])[1]/following::li[1]</value>
+      <webElementGuid>99a64fb2-2b36-452a-9f04-eb5fa7b43f72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amortization Report'])[1]/following::li[2]</value>
+      <webElementGuid>5fe497a2-2293-4bd3-92e9-d7e011322143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]</value>
+      <webElementGuid>0775566c-e3ea-4514-8cab-02751d7a21bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Customer Overdue BPKB >90 Days' or . = 'Customer Overdue BPKB >90 Days')]</value>
+      <webElementGuid>74522aaa-7d13-4e00-bc0a-a2e21463cacc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
