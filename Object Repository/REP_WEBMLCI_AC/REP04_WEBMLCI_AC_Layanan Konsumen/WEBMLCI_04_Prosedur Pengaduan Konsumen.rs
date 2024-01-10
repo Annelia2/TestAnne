@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WEBMLCI_04_Prosedur Pengaduan Konsumen</name>
+   <tag></tag>
+   <elementGuidId>b588213f-7b06-4214-a6cd-556b8def73cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.sfHover > ul > li.sfHover > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='main-menu']/li[5]/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d85bae9e-69a0-4b9c-88dd-0981c01dcf09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.mitsuilease.co.id/pengaduan_konsumen</value>
+      <webElementGuid>c9499acb-7238-4513-a12a-cb9ababd8746</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prosedur Pengaduan Konsumen</value>
+      <webElementGuid>e6a91aec-7821-4aa3-9ae6-372db4750f77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-nav&quot;)/ul[@id=&quot;main-menu&quot;]/li[@class=&quot;sfHover&quot;]/ul[1]/li[@class=&quot;sfHover&quot;]/a[1]</value>
+      <webElementGuid>532d357a-9c55-42a8-a17b-a99d85e84ead</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='main-menu']/li[5]/ul/li[3]/a</value>
+      <webElementGuid>45fb615b-ccf6-46af-912b-5ca750a96106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Prosedur Pengaduan Konsumen')]</value>
+      <webElementGuid>21d0fb83-c18e-468f-a9bd-e7d72e7b2540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::a[1]</value>
+      <webElementGuid>61cf7506-30cb-472c-9b10-285bf4c44c41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Komentar/Saran'])[1]/following::a[2]</value>
+      <webElementGuid>de663a4b-f4c3-4204-a9bb-2b58feeb08db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lembaga Alternatif Penyelesaian Sengketa (LAPS)'])[1]/preceding::a[1]</value>
+      <webElementGuid>34692a0c-d8c9-4c92-bfd8-4bfe945a6186</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ringkasan Informasi Produk dan Layanan Versi Umum'])[1]/preceding::a[2]</value>
+      <webElementGuid>73ba7051-bab5-4487-9a7e-9cc4ee9b9b3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Prosedur Pengaduan Konsumen']/parent::*</value>
+      <webElementGuid>ba495981-5a2e-4692-9b68-573d5bd0babc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.mitsuilease.co.id/pengaduan_konsumen')]</value>
+      <webElementGuid>e582b62f-ff18-4bf9-9d01-d171a498f484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li[3]/a</value>
+      <webElementGuid>c720194c-6c88-4f0d-b102-c76c15e5a037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.mitsuilease.co.id/pengaduan_konsumen' and (text() = 'Prosedur Pengaduan Konsumen' or . = 'Prosedur Pengaduan Konsumen')]</value>
+      <webElementGuid>7e05e104-e3f0-4512-9604-883a8b2274a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

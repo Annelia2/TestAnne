@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WEBMLCI_15_Laporan Keberlanjutan</name>
+   <tag></tag>
+   <elementGuidId>b8af2910-e885-4e32-ae46-91a6e44d13ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.sfHover > ul > li.sfHover > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='main-menu']/li[2]/ul/li[9]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8c43cfe6-e30f-4bb7-8cf1-b26c2f26c8c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.mitsuilease.co.id/sustnreport</value>
+      <webElementGuid>1fa06f67-bfb1-4773-abc9-a0fdcd0049f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Laporan Keberlanjutan</value>
+      <webElementGuid>855c6e65-2bc9-4e6c-9183-cfc0610d5af8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-nav&quot;)/ul[@id=&quot;main-menu&quot;]/li[@class=&quot;sfHover&quot;]/ul[1]/li[@class=&quot;sfHover&quot;]/a[1]</value>
+      <webElementGuid>3d92e180-2a06-430e-97be-a73817cf2683</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='main-menu']/li[2]/ul/li[9]/a</value>
+      <webElementGuid>74ba600a-2876-44b7-a03b-b938800c0955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Laporan Keberlanjutan')]</value>
+      <webElementGuid>013923d4-2606-459e-bf9c-d06c6c836899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kantor Selain Kantor Cabang (KSKC)'])[1]/following::a[1]</value>
+      <webElementGuid>82935246-0bcb-47e0-a453-30863261def7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kantor Cabang'])[1]/following::a[2]</value>
+      <webElementGuid>796364c7-0a64-4db7-b85e-c7e8ecf6523f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRODUK'])[1]/preceding::a[1]</value>
+      <webElementGuid>f20a4110-d64a-458f-a063-5d03e689089f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cara Pembayaran Angsuran Pembiayaan'])[1]/preceding::a[3]</value>
+      <webElementGuid>47e0424b-d9a3-41d5-9f2b-5e42505f48a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Laporan Keberlanjutan']/parent::*</value>
+      <webElementGuid>8f4ffdad-c7cd-4e74-9de6-936579a2cf47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.mitsuilease.co.id/sustnreport')]</value>
+      <webElementGuid>3c2e8c47-b7fa-4b59-91f2-d96eff93af1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/a</value>
+      <webElementGuid>724ee954-eb38-4285-ad4e-6001d8c40674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.mitsuilease.co.id/sustnreport' and (text() = 'Laporan Keberlanjutan' or . = 'Laporan Keberlanjutan')]</value>
+      <webElementGuid>ed7a07f2-354c-410b-b9e9-83b465776e83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

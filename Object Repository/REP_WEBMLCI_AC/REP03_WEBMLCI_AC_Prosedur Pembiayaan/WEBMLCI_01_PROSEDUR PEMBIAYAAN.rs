@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WEBMLCI_01_PROSEDUR PEMBIAYAAN</name>
+   <tag></tag>
+   <elementGuidId>b768cb4c-8a86-44a7-9a66-1011be78634b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.sfHover > a.sf-with-ul</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='main-menu']/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>53425f6b-51b9-4012-b579-7e752c27ddbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>ff0b0aa4-657c-4c32-8dfc-778abce4d8ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sf-with-ul</value>
+      <webElementGuid>0457537e-a45c-4497-8531-3960c7467960</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PROSEDUR PEMBIAYAAN</value>
+      <webElementGuid>0d75883f-20b4-4b62-94d7-bddc201412f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-nav&quot;)/ul[@id=&quot;main-menu&quot;]/li[@class=&quot;sfHover&quot;]/a[@class=&quot;sf-with-ul&quot;]</value>
+      <webElementGuid>358f4363-c9d4-4175-bd64-36f78f2641df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='main-menu']/li[4]/a</value>
+      <webElementGuid>69ace903-dbe7-4fd7-8235-0d51b397e5d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'PROSEDUR PEMBIAYAAN')]</value>
+      <webElementGuid>e14b5718-31d4-45da-af81-4e75f4fe9bd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRODUK'])[1]/following::a[1]</value>
+      <webElementGuid>34caf271-8f37-486d-9a37-4b0fb0f068cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Keberlanjutan'])[1]/following::a[2]</value>
+      <webElementGuid>fdcb8f35-8b2d-4356-ba32-23e477efa776</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cara Pembayaran Angsuran Pembiayaan'])[1]/preceding::a[1]</value>
+      <webElementGuid>87782b9a-e630-4440-aec9-e5386b9f62c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Persyaratan Kredit'])[1]/preceding::a[2]</value>
+      <webElementGuid>614ced5e-e57f-494a-ae83-8ba2ee920b20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PROSEDUR PEMBIAYAAN']/parent::*</value>
+      <webElementGuid>07fb1b96-3f8a-48b7-8906-08cebcb8cf26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[7]</value>
+      <webElementGuid>85f53029-fd42-4def-8758-4fcf5b9181fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[4]/a</value>
+      <webElementGuid>493813fa-e9b2-44de-9585-09817adf72c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'PROSEDUR PEMBIAYAAN' or . = 'PROSEDUR PEMBIAYAAN')]</value>
+      <webElementGuid>fb4a1d7f-5079-4a70-8474-41d1ee6db726</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

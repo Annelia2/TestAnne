@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WEBMLCI_03_Credit Policy Officer (Code CPO)</name>
+   <tag></tag>
+   <elementGuidId>609ef5e3-c4c6-4cc0-bd59-8d5d3b557cc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordion']/div[2]/div/h4/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2259908a-43d0-4619-bd43-7df19c2e7e46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab-title</value>
+      <webElementGuid>8851ef54-08e8-42c9-a34f-6e7e50e9041e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Credit Policy Officer (Code : CPO)</value>
+      <webElementGuid>8995efa8-f956-472c-9304-291a97b4ddea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordion&quot;)/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-heading&quot;]/h4[@class=&quot;panel-title&quot;]/a[@class=&quot;collapsed&quot;]/span[@class=&quot;tab-title&quot;]</value>
+      <webElementGuid>58b157f7-7cf1-4db6-9908-0dfc91a3fa7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordion']/div[2]/div/h4/a/span[2]</value>
+      <webElementGuid>39a8dd32-86ca-43a9-832f-0548e4db021b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='put the position code (CCM)'])[1]/following::span[2]</value>
+      <webElementGuid>42e0899d-d2b7-434d-9d9d-17165a08e71b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='or'])[1]/following::span[2]</value>
+      <webElementGuid>03917660-928a-4cfb-b240-5bc36458d632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maximum age 27 years old.'])[1]/preceding::span[1]</value>
+      <webElementGuid>3f2ffa05-f971-4eb4-af5a-94ee298d00e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Possessed at least Bachelor Degree of Finance/Accountancy/Economics.'])[1]/preceding::span[1]</value>
+      <webElementGuid>b2450955-fbb9-4953-9a19-1078187bdc55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Credit Policy Officer (Code : CPO)']/parent::*</value>
+      <webElementGuid>9aec404e-e53f-4c76-bbe3-d233ee6d2919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h4/a/span[2]</value>
+      <webElementGuid>b2de2814-a647-4902-ac6c-e6aa415bb5b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Credit Policy Officer (Code : CPO)' or . = 'Credit Policy Officer (Code : CPO)')]</value>
+      <webElementGuid>ae2a57d5-4a24-4731-9003-b7bea424e626</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

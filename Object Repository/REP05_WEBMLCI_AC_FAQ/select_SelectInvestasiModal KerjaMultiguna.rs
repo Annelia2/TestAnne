@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SelectInvestasiModal KerjaMultiguna</name>
+   <tag></tag>
+   <elementGuidId>6a42e55a-b42d-40e0-8b9b-dc2c7ffc4703</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PURPOFFINC</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='PURPOFFINC']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>64e15310-e6af-40e0-80b4-2956818d6c97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PURPOFFINC</value>
+      <webElementGuid>dbbd33e5-04c5-41a8-a192-eca6ed0b1ad1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PURPOFFINC</value>
+      <webElementGuid>74d0a21b-c4be-468b-ab8b-f7ec3e1f7e30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>49c7c0d8-690b-44f4-8b1b-d8293d82a9ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>AjaxFunction()</value>
+      <webElementGuid>6963d100-ba3e-45bb-84eb-5a5d25cb5301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	Select
+	InvestasiModal KerjaMultiguna</value>
+      <webElementGuid>797badc6-7746-41c5-81aa-4e501567a965</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PURPOFFINC&quot;)</value>
+      <webElementGuid>de3f7bfa-8e5e-4889-a28a-288f1e5e8bcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/REP05_WEBMLCI_AC_FAQ/iframe_LOGOUT_main1</value>
+      <webElementGuid>38ffe6fe-7448-43d4-9168-88c35d981008</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='PURPOFFINC']</value>
+      <webElementGuid>11b39497-041c-469b-b7fd-7ed2d280f07a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Purpose of Finance'])[1]/following::select[1]</value>
+      <webElementGuid>5c7d41bf-9a30-4239-823c-b48aa5be25f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CAM'])[1]/following::select[1]</value>
+      <webElementGuid>224d94ee-d36b-4f36-bc69-a1dfca32a98e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Finance Type'])[1]/preceding::select[1]</value>
+      <webElementGuid>39ea8c65-742e-4aaf-83fe-89c6b209aef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contract Type'])[1]/preceding::select[2]</value>
+      <webElementGuid>77c0cbc0-c70d-4fe1-bd8e-8d3e5537ca9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>586db1da-7247-4698-b10a-6aceb0b04586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'PURPOFFINC' and @id = 'PURPOFFINC' and (text() = '
+	Select
+	InvestasiModal KerjaMultiguna' or . = '
+	Select
+	InvestasiModal KerjaMultiguna')]</value>
+      <webElementGuid>cfa4028e-dafe-4a1d-99a8-af1b06b1f703</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

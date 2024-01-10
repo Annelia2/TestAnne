@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WEBMLCI_02_Tentang Mitsui Leasing</name>
+   <tag></tag>
+   <elementGuidId>3462e08c-d103-4b3b-a1e7-a8cfb490e59e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.sfHover > ul > li.sfHover > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='main-menu']/li[2]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f9df1543-4b98-4636-9a2a-0d4cb43b7171</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.mitsuilease.co.id/tentang</value>
+      <webElementGuid>55a6e83f-0fc8-44fe-8596-677893f6b0b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tentang Mitsui Leasing</value>
+      <webElementGuid>c408146b-0666-4aa9-9d62-0ae6e45295f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-nav&quot;)/ul[@id=&quot;main-menu&quot;]/li[@class=&quot;sfHover&quot;]/ul[1]/li[@class=&quot;sfHover&quot;]/a[1]</value>
+      <webElementGuid>80cc09b3-a7d8-4448-a8f0-5ed74b058e3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='main-menu']/li[2]/ul/li/a</value>
+      <webElementGuid>a9e0c515-e4a8-4871-8eea-a1702c0b22c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tentang Mitsui Leasing')]</value>
+      <webElementGuid>e2e43269-67d6-49f0-a7d8-e5a985d2a8fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BERANDA'])[1]/following::a[2]</value>
+      <webElementGuid>2c9a15b4-b0ea-44d8-9d3e-03491c9f733d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BATAL'])[1]/following::a[3]</value>
+      <webElementGuid>6bc4b75a-9a0a-46a0-8e1c-373c6f24d93a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Misi, Visi dan Nilai'])[1]/preceding::a[1]</value>
+      <webElementGuid>263fb1f7-74c7-491f-8c0b-2166c5c1d353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Struktur Organisasi'])[1]/preceding::a[2]</value>
+      <webElementGuid>f64a5d8b-8aec-4e7d-8b66-3ec2936bb28a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tentang Mitsui Leasing']/parent::*</value>
+      <webElementGuid>6760c656-2e69-4bdd-a5c0-d8d53516b152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.mitsuilease.co.id/tentang')]</value>
+      <webElementGuid>6f13a130-2631-4e8b-919c-9f5ddab616ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li/a</value>
+      <webElementGuid>db7120a2-d372-4dee-84e6-4a4fe1ca7930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.mitsuilease.co.id/tentang' and (text() = 'Tentang Mitsui Leasing' or . = 'Tentang Mitsui Leasing')]</value>
+      <webElementGuid>953a4a73-e34c-4a93-9e8e-4a336853e09e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

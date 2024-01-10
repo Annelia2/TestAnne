@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WEBMLCI_05_Lembaga Alternatif Penyelesaian Sengketa (LAPS)</name>
+   <tag></tag>
+   <elementGuidId>7c6e36cf-9f8d-4994-8809-a90b001af23b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.sfHover > ul > li.sfHover > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='main-menu']/li[5]/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>83c5d028-3dc0-48fb-a726-f94cf8557fa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.mitsuilease.co.id/laps</value>
+      <webElementGuid>2f68f6dd-25b8-48e3-a73e-92913320d4a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lembaga Alternatif Penyelesaian Sengketa (LAPS)</value>
+      <webElementGuid>c542b9de-ed68-41b2-a8e0-713df43f4662</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-nav&quot;)/ul[@id=&quot;main-menu&quot;]/li[@class=&quot;sfHover&quot;]/ul[1]/li[@class=&quot;sfHover&quot;]/a[1]</value>
+      <webElementGuid>c0b72144-bbe2-4b9e-ad9e-ba5c7afeac9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='main-menu']/li[5]/ul/li[4]/a</value>
+      <webElementGuid>9535f406-aeaf-43d8-8842-4f4f11f7a46d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lembaga Alternatif Penyelesaian Sengketa (LAPS)')]</value>
+      <webElementGuid>d4ed1e6d-10fa-463b-bfb1-4145f2d94220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prosedur Pengaduan Konsumen'])[1]/following::a[1]</value>
+      <webElementGuid>751635c6-9da8-4927-bddf-aa0c6254c3e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/following::a[2]</value>
+      <webElementGuid>56850f3d-0ee0-4c4a-a16d-b8925f2c7934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ringkasan Informasi Produk dan Layanan Versi Umum'])[1]/preceding::a[1]</value>
+      <webElementGuid>3cb694d1-6bd2-4144-ae6a-d87cdf17aa44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KARIR'])[1]/preceding::a[2]</value>
+      <webElementGuid>c24b427f-3c3a-407b-bb05-cfd0c4aa2aa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lembaga Alternatif Penyelesaian Sengketa (LAPS)']/parent::*</value>
+      <webElementGuid>b1e1f492-6e6d-4a9b-9d74-8dddcf0144d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.mitsuilease.co.id/laps')]</value>
+      <webElementGuid>125f686d-31e8-4603-9d50-b2bf342428d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li[4]/a</value>
+      <webElementGuid>a4ac9322-2bb8-4179-816c-cb91f02d04c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.mitsuilease.co.id/laps' and (text() = 'Lembaga Alternatif Penyelesaian Sengketa (LAPS)' or . = 'Lembaga Alternatif Penyelesaian Sengketa (LAPS)')]</value>
+      <webElementGuid>d0d2503c-ee38-4862-9e36-92a92a44c614</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

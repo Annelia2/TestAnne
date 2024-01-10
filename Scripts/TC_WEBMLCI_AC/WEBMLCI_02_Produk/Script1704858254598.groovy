@@ -19,12 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://192.168.4.193/newcam_approval/login.php')
+WebUI.navigateToUrl('https://www.mitsuilease.co.id/')
 
-WebUI.setText(findTestObject('Object Repository/REP05_WEBMLCI_AC_FAQ/input_Username_username'), 'steven_winata')
+WebUI.click(findTestObject('Object Repository/REP_WEBMLCI_AC/REP02_WEBMLCI_AC_Produk/WEBMLCI_01_PRODUK'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/REP05_WEBMLCI_AC_FAQ/input_Password_password'), 
-    'iGDxf8hSRT4=')
+WebUI.delay(3)
 
-WebUI.click(findTestObject('login cam/Login'))
+WebUI.takeFullPageScreenshot('D:/Annelia/MLCI/Katalon/Katalon_Studio_PE_Windows_64-8.5.5/WEBMLCI/2. Produk/1. Produk.jpg')
+
+WebUI.closeBrowser()
 

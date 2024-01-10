@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WEBMLCI_09_Tanggung Jawab Sosial Lingkungan</name>
+   <tag></tag>
+   <elementGuidId>fe87a900-87e3-416a-9627-b4b30f4edad3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.sfHover > #main-menu > li.sfHover > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//ul[@id='main-menu']/li/a)[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>74a5f2e8-06fe-4078-8268-6563adb25490</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.mitsuilease.co.id/companys-activity-corporate-social-responsibility</value>
+      <webElementGuid>43a68ada-b52d-46c8-9c1b-4a4e12cf54b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tanggung Jawab Sosial Lingkungan</value>
+      <webElementGuid>31bf5518-6750-40ce-86be-20d7bace4a71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-nav&quot;)/ul[@id=&quot;main-menu&quot;]/li[@class=&quot;sfHover&quot;]/ul[1]/li[@class=&quot;sfHover&quot;]/ul[@id=&quot;main-menu&quot;]/li[@class=&quot;sfHover&quot;]/a[1]</value>
+      <webElementGuid>0e878acd-2df0-45c0-8750-a5d7e87d0507</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//ul[@id='main-menu']/li/a)[3]</value>
+      <webElementGuid>01dfb772-c328-4798-b016-d042d532780b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tanggung Jawab Sosial Lingkungan')]</value>
+      <webElementGuid>8a2b2415-fc8c-4caa-80f5-079f9f512b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tata Kelola'])[1]/following::a[2]</value>
+      <webElementGuid>20b07cbc-0e42-4006-9327-d6f2df78009f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporan Tahunan'])[1]/following::a[3]</value>
+      <webElementGuid>421c6533-1a79-4e36-8208-84f55cdf1e91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita dan Acara'])[1]/preceding::a[1]</value>
+      <webElementGuid>f88c2849-e39b-4ffc-99d3-0bdc79a430e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kantor Pusat'])[1]/preceding::a[3]</value>
+      <webElementGuid>8394f82d-12ad-4ff0-8b52-ca6e8bfee269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tanggung Jawab Sosial Lingkungan']/parent::*</value>
+      <webElementGuid>7fcacc1e-54aa-4185-bd8f-611ab0e8961e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.mitsuilease.co.id/companys-activity-corporate-social-responsibility')]</value>
+      <webElementGuid>77ad54c5-9662-4596-a698-95e729ac9597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/ul/li/a</value>
+      <webElementGuid>54f3f774-c2dc-4a0f-bff5-f8edafe592e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.mitsuilease.co.id/companys-activity-corporate-social-responsibility' and (text() = 'Tanggung Jawab Sosial Lingkungan' or . = 'Tanggung Jawab Sosial Lingkungan')]</value>
+      <webElementGuid>763aa19a-0477-43a4-a5bb-dc50a967274c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WEBMLCI_12_Kantor Pusat</name>
+   <tag></tag>
+   <elementGuidId>2783788f-7d85-4b7a-9f3d-9e37d2ef728d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.sfHover > #main-menu > li.sfHover > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//ul[@id='main-menu']/li/a)[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a16d7f64-70ec-4e82-8110-027dc3539e99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.mitsuilease.co.id/pusat</value>
+      <webElementGuid>d79edb61-baaf-4c21-98ae-9777bc3f715d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kantor Pusat</value>
+      <webElementGuid>382e28b6-c62b-4707-971c-b0b1837c320d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-nav&quot;)/ul[@id=&quot;main-menu&quot;]/li[@class=&quot;sfHover&quot;]/ul[1]/li[@class=&quot;sfHover&quot;]/ul[@id=&quot;main-menu&quot;]/li[@class=&quot;sfHover&quot;]/a[1]</value>
+      <webElementGuid>aa699d9e-7afa-45d6-93b5-e1ecb81d4099</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//ul[@id='main-menu']/li/a)[5]</value>
+      <webElementGuid>17693195-f1c6-4cbd-b855-f021986d8764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kantor Pusat')]</value>
+      <webElementGuid>2777bdc8-db94-49bd-b1fb-90c701b688c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita dan Acara'])[1]/following::a[2]</value>
+      <webElementGuid>3158db01-8ded-4cd6-892d-06c27ff6005f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggung Jawab Sosial Lingkungan'])[1]/following::a[3]</value>
+      <webElementGuid>8f8ce402-9a2b-4a68-b60d-27a97c4bda13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kantor Cabang'])[1]/preceding::a[1]</value>
+      <webElementGuid>e41497fe-d003-4e37-868d-fed1f04dee1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kantor Selain Kantor Cabang (KSKC)'])[1]/preceding::a[2]</value>
+      <webElementGuid>e63f6834-0c4b-4142-9aef-05310d9253e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kantor Pusat']/parent::*</value>
+      <webElementGuid>361a5d71-853f-440c-9181-1ddcc843ad3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.mitsuilease.co.id/pusat')]</value>
+      <webElementGuid>43dcdd42-8015-40e4-a9df-a09cfb394888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/ul/li/a</value>
+      <webElementGuid>7ef8f491-d44f-4c21-992b-5931fb84f3d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.mitsuilease.co.id/pusat' and (text() = 'Kantor Pusat' or . = 'Kantor Pusat')]</value>
+      <webElementGuid>6818fa4e-b661-4bcc-8213-57c69639212b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -17,40 +17,40 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Page_MLCI - Credit Approval Memorandum/a_Add CAM'))
+WebUI.click(findTestObject('Object Repository/REP05_WEBMLCI_AC_FAQ/a_Add CAM'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_MLCI - Credit Approval Memorandum/select_SelectInvestasiModal KerjaMultiguna'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/REP05_WEBMLCI_AC_FAQ/select_SelectInvestasiModal KerjaMultiguna'), 
     '3', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_MLCI - Credit Approval Memorandum/select_SelectInstallment Financing (IF)Sale_d9f2a8'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/REP05_WEBMLCI_AC_FAQ/select_SelectInstallment Financing (IF)Sale_d9f2a8'), 
     'I', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_MLCI - Credit Approval Memorandum/select_SelectNEW FINANCINGRESTRUCTURING TYP_364389'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/REP05_WEBMLCI_AC_FAQ/select_SelectNEW FINANCINGRESTRUCTURING TYP_364389'), 
     'NEW', true)
 
-WebUI.click(findTestObject('Object Repository/Page_MLCI - Credit Approval Memorandum/input_IndividuCorporate_ind_cor'))
+WebUI.click(findTestObject('Object Repository/REP05_WEBMLCI_AC_FAQ/input_IndividuCorporate_ind_cor'))
 
-WebUI.click(findTestObject('Object Repository/Page_MLCI - Credit Approval Memorandum/input_UsedNew_new_car'))
+WebUI.click(findTestObject('Object Repository/REP05_WEBMLCI_AC_FAQ/input_UsedNew_new_car'))
 
-WebUI.click(findTestObject('Object Repository/Page_MLCI - Credit Approval Memorandum/input_NoYes_guarantor'))
+WebUI.click(findTestObject('Object Repository/REP05_WEBMLCI_AC_FAQ/input_NoYes_guarantor'))
 
-WebUI.click(findTestObject('Object Repository/Page_MLCI - Credit Approval Memorandum/input_NoYes_boa'))
+WebUI.click(findTestObject('Object Repository/REP05_WEBMLCI_AC_FAQ/input_NoYes_boa'))
 
-WebUI.click(findTestObject('Object Repository/Page_MLCI - Credit Approval Memorandum/input_IndividuCorporate_submit'))
+WebUI.click(findTestObject('Object Repository/REP05_WEBMLCI_AC_FAQ/input_IndividuCorporate_submit'))
 
-WebUI.click(findTestObject('Object Repository/Page_MLCI - Credit Approval Memorandum/input_Multiguna_yes'))
+WebUI.click(findTestObject('Object Repository/REP05_WEBMLCI_AC_FAQ/input_Multiguna_yes'))
 
-WebUI.click(findTestObject('Object Repository/Page_MLCI - Credit Approval Memorandum/a_Name in ID Card'))
-
-WebUI.switchToWindowTitle('MLCI - Credit Approval Memorandum')
-
-WebUI.click(findTestObject('Page_MLCI - Credit Approval Memorandum/a_067039'))
+WebUI.click(findTestObject('Object Repository/REP05_WEBMLCI_AC_FAQ/a_Name in ID Card'))
 
 WebUI.switchToWindowTitle('MLCI - Credit Approval Memorandum')
 
-WebUI.click(findTestObject('Object Repository/Page_MLCI - Credit Approval Memorandum/button_Next'))
+WebUI.click(findTestObject('REP05_WEBMLCI_AC_FAQ/a_067039'))
 
-WebUI.click(findTestObject('Object Repository/Page_MLCI - Credit Approval Memorandum/img'))
+WebUI.switchToWindowTitle('MLCI - Credit Approval Memorandum')
 
-WebUI.click(findTestObject('Object Repository/Page_MLCI - Credit Approval Memorandum/a_LOGOUT'))
+WebUI.click(findTestObject('Object Repository/REP05_WEBMLCI_AC_FAQ/button_Next'))
+
+WebUI.click(findTestObject('Object Repository/REP05_WEBMLCI_AC_FAQ/img'))
+
+WebUI.click(findTestObject('Object Repository/REP05_WEBMLCI_AC_FAQ/a_LOGOUT'))
 

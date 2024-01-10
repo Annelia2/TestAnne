@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WEBMLCI_10_Apa Keunggulan Mitsui Leasing</name>
+   <tag></tag>
+   <elementGuidId>ed52dd27-37ce-4b44-97cf-449e527863ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordion']/div[9]/div/h4/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>137e78c6-6aa5-4614-a436-8fcebe48a302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab-title</value>
+      <webElementGuid>fa4dbf9a-07bd-48b5-8032-e97395622121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apa Keunggulan Mitsui Leasing?</value>
+      <webElementGuid>7ce2152a-0a18-4ff4-9c15-c14a8dc5c53f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordion&quot;)/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-heading&quot;]/h4[@class=&quot;panel-title&quot;]/a[@class=&quot;collapsed&quot;]/span[@class=&quot;tab-title&quot;]</value>
+      <webElementGuid>c9010000-8640-4728-b5e0-c0e545df5844</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordion']/div[9]/div/h4/a/span[2]</value>
+      <webElementGuid>ba031b0f-d96f-4abe-b520-4a65c250ee2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HANDAL, AMAN DAN PENUH PERHATIAN'])[1]/following::span[2]</value>
+      <webElementGuid>e471a5e8-7756-4e13-813d-0b6142b70210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PELUNASAN PEMBIAYAAN YANG CEPAT'])[1]/following::span[2]</value>
+      <webElementGuid>39520ce3-4c65-4b8e-bbb6-cd31f1ac0777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[2]/preceding::span[1]</value>
+      <webElementGuid>f3984d86-fd1d-42eb-94b7-793d141fd327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROFIL'])[3]/preceding::span[1]</value>
+      <webElementGuid>0cce03b7-344b-4b59-b7fe-59cb5f864a1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apa Keunggulan Mitsui Leasing?']/parent::*</value>
+      <webElementGuid>5b6d58c7-e044-44bb-875a-d3bede321282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/h4/a/span[2]</value>
+      <webElementGuid>153c52af-9ab5-4d6e-87be-fd7ef9495368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Apa Keunggulan Mitsui Leasing?' or . = 'Apa Keunggulan Mitsui Leasing?')]</value>
+      <webElementGuid>f7d44085-b791-4923-89d1-0cc7c564fee4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
